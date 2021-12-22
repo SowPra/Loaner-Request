@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>2</order>
+        <published_ref/>
+        <question display_value="Depot">a8c6afc24720415076cb2c44846d433a</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 14:32:27</sys_created_on>
+        <sys_id>6cc6afc24720415076cb2c44846d4350</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>London</sys_name>
+        <sys_package display_value="Loaner Request" source="x_19142_loaner_req">da0c197547e08d1076cb2c44846d4364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">da0c197547e08d1076cb2c44846d4364</sys_scope>
+        <sys_update_name>question_choice_6cc6afc24720415076cb2c44846d4350</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-12-22 14:36:42</sys_updated_on>
+        <text>London</text>
+        <value>london</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=6cc6afc24720415076cb2c44846d4350"/>
+</record_update>

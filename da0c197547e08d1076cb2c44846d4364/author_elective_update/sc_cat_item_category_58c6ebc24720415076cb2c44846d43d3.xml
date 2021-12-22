@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Loaner request">54c6ebc24720415076cb2c44846d43ca</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 14:10:30</sys_created_on>
+        <sys_id>58c6ebc24720415076cb2c44846d43d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Loaner request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_19142_loaner_req">da0c197547e08d1076cb2c44846d4364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">da0c197547e08d1076cb2c44846d4364</sys_scope>
+        <sys_update_name>sc_cat_item_category_58c6ebc24720415076cb2c44846d43d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 14:10:30</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">da0c197547e08d1076cb2c44846d4364</application>
+        <file_path/>
+        <instance_id>39555ca3db1197006578f22ebf961999</instance_id>
+        <instance_name>dev55974</instance_name>
+        <name>sc_cat_item_category_58c6ebc24720415076cb2c44846d43d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Loaner request">54c6ebc24720415076cb2c44846d43ca</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-22 14:10:30</sys_created_on><sys_id>58c6ebc24720415076cb2c44846d43d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Loaner request</sys_name><sys_package display_value="Loaner Request" source="x_19142_loaner_req">da0c197547e08d1076cb2c44846d4364</sys_package><sys_policy/><sys_scope display_value="Loaner Request">da0c197547e08d1076cb2c44846d4364</sys_scope><sys_update_name>sc_cat_item_category_58c6ebc24720415076cb2c44846d43d3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-22 14:10:30</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-395875223</payload_hash>
+        <record_name>Can We Help You?.Loaner request</record_name>
+        <reverted_from/>
+        <source>6f2e597947e08d1076cb2c44846d4390</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 14:10:30</sys_created_on>
+        <sys_id>24c6afc24720415076cb2c44846d432c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17de27aaeb90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 14:10:30</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>6cc6afc2c0204150bc0365e19a83c82b</update_guid>
+        <update_guid_history>6cc6afc2c0204150bc0365e19a83c82b:-395875223</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Loaner request">04cc23ce4720415076cb2c44846d439f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-12-22 14:36:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>69d1ceafad33485394926655cb091121</sys_id>
+        <sys_metadata>58c6ebc24720415076cb2c44846d43d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Loaner request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_19142_loaner_req">da0c197547e08d1076cb2c44846d4364</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">da0c197547e08d1076cb2c44846d4364</sys_scope>
+        <sys_scope_delete display_value="">2ce753af0e98471f99707a80fed83f79</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_58c6ebc24720415076cb2c44846d43d3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_58c6ebc24720415076cb2c44846d43d3">24c6afc24720415076cb2c44846d432c</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-12-22 14:36:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

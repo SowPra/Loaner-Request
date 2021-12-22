@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>3</order>
+        <published_ref display_value="Projector">a8c6afc24720415076cb2c44846d437e</published_ref>
+        <question display_value="Item type">42cb634e4720415076cb2c44846d430c</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 14:32:28</sys_created_on>
+        <sys_id>8ecb634e4720415076cb2c44846d431b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Projector</sys_name>
+        <sys_package display_value="Loaner Request" source="x_19142_loaner_req">da0c197547e08d1076cb2c44846d4364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">da0c197547e08d1076cb2c44846d4364</sys_scope>
+        <sys_update_name>question_choice_8ecb634e4720415076cb2c44846d431b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 14:32:28</sys_updated_on>
+        <text>Projector</text>
+        <value>cmdb_ci_projector</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=8ecb634e4720415076cb2c44846d431b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">da0c197547e08d1076cb2c44846d4364</application>
+        <file_path/>
+        <instance_id>39555ca3db1197006578f22ebf961999</instance_id>
+        <instance_name>dev55974</instance_name>
+        <name>question_choice_8ecb634e4720415076cb2c44846d431b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>3</order><published_ref display_value="Projector">a8c6afc24720415076cb2c44846d437e</published_ref><question display_value="Item type">42cb634e4720415076cb2c44846d430c</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-22 14:32:28</sys_created_on><sys_id>8ecb634e4720415076cb2c44846d431b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Projector</sys_name><sys_package display_value="Loaner Request" source="x_19142_loaner_req">da0c197547e08d1076cb2c44846d4364</sys_package><sys_policy/><sys_scope display_value="Loaner Request">da0c197547e08d1076cb2c44846d4364</sys_scope><sys_update_name>question_choice_8ecb634e4720415076cb2c44846d431b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-22 14:32:28</sys_updated_on><text>Projector</text><value>cmdb_ci_projector</value></question_choice><fx_price action="delete_multiple" query="id=8ecb634e4720415076cb2c44846d431b"/></record_update>]]></payload>
+        <payload_hash>1024707043</payload_hash>
+        <record_name>Projector</record_name>
+        <reverted_from/>
+        <source>6f2e597947e08d1076cb2c44846d4390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 14:32:28</sys_created_on>
+        <sys_id>46cb634e4720415076cb2c44846d431e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17de28ec90e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 14:32:28</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>cacb634e19204150e7f605db402c2d1d</update_guid>
+        <update_guid_history>cacb634e19204150e7f605db402c2d1d:1024707043</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Projector">8ccc23ce4720415076cb2c44846d43a7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-12-22 14:36:41</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>06be8b1267c94a8080ca95fc899a6400</sys_id>
+        <sys_metadata>8ecb634e4720415076cb2c44846d431b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Projector</sys_name>
+        <sys_package display_value="Loaner Request" source="x_19142_loaner_req">da0c197547e08d1076cb2c44846d4364</sys_package>
+        <sys_parent display_value="">42cb634e4720415076cb2c44846d430c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">da0c197547e08d1076cb2c44846d4364</sys_scope>
+        <sys_scope_delete display_value="">2ce753af0e98471f99707a80fed83f79</sys_scope_delete>
+        <sys_update_name>question_choice_8ecb634e4720415076cb2c44846d431b</sys_update_name>
+        <sys_update_version display_value="question_choice_8ecb634e4720415076cb2c44846d431b">46cb634e4720415076cb2c44846d431e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-12-22 14:36:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
