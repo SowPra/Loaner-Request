@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Loaner Task" max_length="40" name="x_19142_loaner_req_loaner_task" sizeclass="0" type="collection">
+        <element label="Overdue Count" max_length="40" name="overdue_count" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Overdue Reminder" max_length="40" name="overdue_reminder" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Return Remainder" max_length="40" name="return_remainder" type="glide_date_time"/>
+    </element>
+</database>

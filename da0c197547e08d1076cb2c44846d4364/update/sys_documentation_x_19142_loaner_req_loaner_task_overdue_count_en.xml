@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="overdue_count" label="Overdue Count" language="en" table="x_19142_loaner_req_loaner_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>overdue_count</element>
+            <help/>
+            <hint/>
+            <label>Overdue Count</label>
+            <language>en</language>
+            <name>x_19142_loaner_req_loaner_task</name>
+            <plural>Overdue Counts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-22 11:13:14</sys_created_on>
+            <sys_id>f32eba4a47e8015076cb2c44846d43b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Overdue Count</sys_name>
+            <sys_package display_value="Loaner Request" source="x_19142_loaner_req">da0c197547e08d1076cb2c44846d4364</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">da0c197547e08d1076cb2c44846d4364</sys_scope>
+            <sys_update_name>sys_documentation_x_19142_loaner_req_loaner_task_overdue_count_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-22 11:13:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
